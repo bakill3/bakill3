@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Brandão</h1>
 <h3 align="center">A passionate Full Stack Developer & Software Engineer from Portugal</h3>
 
-- 🔭 I’m currently working on [Alaska](https://alaskaicebath.com/)
-
-- 🌱 I’m currently learning **Laravel, React**
+- 🌱 I’m currently learning **Laravel, React, NodeJS, AngularJS**
 
 - 📫 How to reach me **deostulti2@gmail.com**
 
