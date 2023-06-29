@@ -35,7 +35,6 @@ My decade-long journey in programming has led me to learn and use a variety of l
 
 - GitHub: [github.com/GabrielBrandao](https://github.com/GabrielBrandao)
 - E-mail: [deostulti2@gmail.com](mailto:deostulti2@gmail.com)
-- LinkedIn: [linkedin.com/in/gabriel-brandao](https://linkedin.com/in/gabriel-brandao)
 
 ## 📚 My Latest Blog posts
 
