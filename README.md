@@ -24,6 +24,11 @@ My decade-long journey in programming has led me to learn and use a variety of l
     <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
+## 💻 Currently Developing
+[Tap&Go](https://tapgotech.com/)
+[Alaska Ice Bathtubs](https://alaskaicebath.com/)
+
+
 ## 🌱 What I'm currently learning 
 
 - Laravel 
