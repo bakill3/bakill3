@@ -1,7 +1,12 @@
 # Hi there 👋, I'm Gabriel Brandão
 ![GitHub followers](https://img.shields.io/github/followers/bakill3?label=Follow&style=social)
 
-A passionate Full Stack Developer & Software Engineer from Portugal with a love for creating robust and scalable software solutions. I've been in this exciting coding world since the age of 13 and currently honing my skills in Computer Science at the University of Coimbra.
+A passionate Full Stack Developer & Software Engineer from Portugal with a love for creating robust and scalable software solutions. 
+
+My passion for coding ignited at the age of 13 when I developed my very first social network. This early endeavor taught me not only about building applications but also about security considerations like SQL injection. Over the years, my tinkering led me to a myriad of projects, from Raspberry Pi and Arduino integrations to complex web applications. My commitment to innovation and excellence is evident in notable projects like the app tool that garnered over 200K downloads, simulations related to COVID-19, and the creation of an AI voice assistant reminiscent of Jarvis.
+
+Fast forward to today, my foundational knowledge in Computer Science was laid during my secondary education at "Curso Profissional de Gestão e Programação de Sistemas Informáticos," where I honed skills like Python, C#, HTML, CSS, JavaScript, PHP, BASH, and delved deep into subjects like computer architecture, operating systems, and Linux. My academic voyage continued at ISEC (Instituto Superior de Engenharias de Coimbra), where I've been learning and mastering languages such as C and C++.
+
 
 My decade-long journey in programming has led me to learn and use a variety of languages and tools to build projects of all sizes and complexities.
 
@@ -22,6 +27,8 @@ My decade-long journey in programming has led me to learn and use a variety of l
     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
     <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
     <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
+
 </p>
 
 ## 💻 Currently Developing
