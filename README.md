@@ -50,6 +50,8 @@ My decade-long journey in programming has led me to learn and use a variety of l
 - GitHub: [github.com/GabrielBrandao](https://github.com/GabrielBrandao)
 - E-mail: [deostulti2@gmail.com](mailto:deostulti2@gmail.com)
 
+### Feel free to explore the code in any of my repositories. However, some of them are not public due to company policies.
+
 ## 📚 My Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
