@@ -31,7 +31,7 @@ My decade-long journey in programming has led me to learn and use a variety of l
 
 </p>
 
-## 💻 Currently Developing
+## 💻 Recently Developed
 
 - 👆 **Tap&Go**: A revolutionary tech platform that changes the way you interact. [Check it out!](https://tapgotech.com/)
 - ❄️ **Alaska Ice Bathtubs**: Experience the icy freshness with every bath. [Dive in!](https://alaskaicebath.com/)
