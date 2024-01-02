@@ -46,9 +46,7 @@ My decade-long journey in programming has led me to learn and use a variety of l
 ## 🌱 What I'm currently learning 
 
 - Laravel 
-- React 
 - NodeJS 
-- AngularJS
 
 ## 📬 Get in touch
 
