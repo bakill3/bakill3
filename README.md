@@ -1,11 +1,13 @@
 # Hi there 👋, I'm Gabriel Brandão
 ![GitHub followers](https://img.shields.io/github/followers/bakill3?label=Follow&style=social)
 
-I'm a passionate Full Stack Developer and Software Engineer from Portugal, dedicated to creating robust and scalable software solutions. My journey in coding began at 13 with a personal project of building a social network. This early experience sparked my interest in a wide range of projects, from Raspberry Pi and Arduino integrations to complex web applications and AI development.
+A passionate Full Stack Developer & Software Engineer from Portugal with a love for creating robust and scalable software solutions.
 
-My technical groundwork was laid at "Curso Profissional de Gestão e Programação de Sistemas Informáticos," where I developed skills in Python, C#, HTML, CSS, JavaScript, PHP, and BASH. I furthered my education at ISEC (Instituto Superior de Engenharias de Coimbra), enhancing my knowledge in computer architecture, operating systems, Linux, and diving into C and C++.
+My passion for coding ignited at the age of 13 when I developed my very first social network. This early endeavor taught me not only about building applications but also about security considerations like SQL injection. Over the years, my tinkering led me to a myriad of projects, from Raspberry Pi and Arduino integrations to complex web applications. My commitment to innovation and excellence is evident in notable projects like the app tool that garnered over 200K downloads, simulations related to COVID-19, and the creation of an AI voice assistant reminiscent of Jarvis.
 
-With over a decade in programming, my career has evolved, and I am currently working remotely where I continue to apply and expand my diverse set of skills in various languages and tools.
+Fast forward to today, my foundational knowledge in Computer Science was laid during my secondary education at "Curso Profissional de Gestão e Programação de Sistemas Informáticos," where I honed skills like Python, C#, HTML, CSS, JavaScript, PHP, BASH, and delved deep into subjects like computer architecture, operating systems, and Linux. My academic voyage continued at ISEC (Instituto Superior de Engenharias de Coimbra), where I've been learning and mastering languages such as C and C++. I am currently working remotely.
+
+My decade-long journey in programming has led me to learn and use a variety of languages and tools to build projects of all sizes and complexities.
 
 ## 💻 Developed Last Year
 - 👆 **Tap&Go**: A revolutionary tech platform that changes the way you interact. [Check it out!](https://tapgotech.com/)
