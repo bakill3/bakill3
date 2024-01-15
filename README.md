@@ -39,7 +39,7 @@ With over a decade in programming, my career has evolved, and I am currently wor
 <p>
   <img src="https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=foter-the-badge&logo=Docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-XAMPP-FB7A24?style=for-the-badge&logo=XAMPP&logoColor=white" />
   <img src="https://img.shields.io/badge/-Filezilla-BF0000?style=for-the-badge&logo=Filezilla&logoColor=white" />
   <img src="https://img.shields.io/badge/-Cropie.js-FF69B4?style=for-the-badge&logo=JavaScript&logoColor=white" />
