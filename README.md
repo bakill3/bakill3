@@ -7,15 +7,15 @@ My technical groundwork was laid at "Curso Profissional de Gestão e Programaç�
 
 With over a decade in programming, my career has evolved, and I am currently working remotely where I continue to apply and expand my diverse set of skills in various languages and tools.
 
+## 💻 Developed Last Year
+- 👆 **Tap&Go**: A revolutionary tech platform that changes the way you interact. [Check it out!](https://tapgotech.com/)
+- ❄️ **Alaska Ice Bathtubs**: Experience the icy freshness with every bath. [Dive in!](https://alaskaicebath.com/)
+
 ## 🌐 Social
 <p>
   <a href="https://www.linkedin.com/in/gabriel-brandao-2000-pt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
   <a href="[https://www.linkedin.com/in/gabriel-brandao-2000-pt/](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=deostulti2@mail.com&subject=MISSED%20CALL%20EZTRADER&body=Hello%2C%0A%0AI%20tried%20contacting%20you%20today%20but%20you%20seem%20to%20have%20missed%20my%20call.%20%0A%0APlease%20return%20my%20call%20as%20soon%20as%20you%E2%80%99re%20available.%20%0A%0AIn%20any%20case%2C%20I%20will%20try%20ringing%20you%20at%20a%20later%20time.%0A%0A%0ATy%2C%0A%0A%0A%0A)" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
-
-## 💻 Developed Last Year
-- 👆 **Tap&Go**: A revolutionary tech platform that changes the way you interact. [Check it out!](https://tapgotech.com/)
-- ❄️ **Alaska Ice Bathtubs**: Experience the icy freshness with every bath. [Dive in!](https://alaskaicebath.com/)
   
 ## 🚀 Languages and Tools
 
