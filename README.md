@@ -10,6 +10,10 @@ With over a decade in programming, my career has evolved, and I am currently wor
 
 ## 🚀 Languages and Tools
 
+## 💻 Developed Last Year
+- 👆 **Tap&Go**: A revolutionary tech platform that changes the way you interact. [Check it out!](https://tapgotech.com/)
+- ❄️ **Alaska Ice Bathtubs**: Experience the icy freshness with every bath. [Dive in!](https://alaskaicebath.com/)
+
 ### 🌐 Social
 <p>
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" />
@@ -80,6 +84,4 @@ With over a decade in programming, my career has evolved, and I am currently wor
   <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=Kali-Linux&logoColor=white" />
 </p>
 
-## 💻 Developed Last Year
-- 👆 **Tap&Go**: A revolutionary tech platform that changes the way you interact. [Check it out!](https://tapgotech.com/)
-- ❄️ **Alaska Ice Bathtubs**: Experience the icy freshness with every bath. [Dive in!](https://alaskaicebath.com/)
+
