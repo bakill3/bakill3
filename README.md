@@ -7,6 +7,7 @@ My technical groundwork was laid at "Curso Profissional de Gestão e Programaç�
 
 With over a decade in programming, my career has evolved, and I am currently working remotely where I continue to apply and expand my diverse set of skills in various languages and tools.
 
+
 ## 🚀 Languages and Tools
 
 ### 🌐 Social
@@ -53,7 +54,7 @@ With over a decade in programming, my career has evolved, and I am currently wor
   <img src="https://img.shields.io/badge/-Microsoft%20Server-007ACC?style=flat&logo=Microsoft&logoColor=white" />
 </p>
 
-###🗄️ Databases
+### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/-MariaDB-C0765A?style=flat&logo=MariaDB&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
@@ -64,13 +65,13 @@ With over a decade in programming, my career has evolved, and I am currently wor
 
 </p>
 
-###📱 Mobile Development
+### 📱 Mobile Development
 <p>
   <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white" />
   <img src="https://img.shields.io/badge/-IOS-000000?style=flat&logo=IOS&logoColor=white" />
 </p>
 
-###💻 Operating Systems
+### 💻 Operating Systems
 <p>
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white" />
