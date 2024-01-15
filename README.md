@@ -15,7 +15,7 @@ With over a decade in programming, my career has evolved, and I am currently wor
 
 ### 🌐 Social
 <p>
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" />
   <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=Discord&logoColor=white" />
 </p>
