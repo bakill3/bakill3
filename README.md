@@ -16,7 +16,7 @@ With over a decade in programming, my career has evolved, and I am currently wor
 ### 🌐 Social
 <p>
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
   <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=Discord&logoColor=white" />
 </p>
 
@@ -38,49 +38,49 @@ With over a decade in programming, my career has evolved, and I am currently wor
 
 ### 🛠️ Tools & Technologies
 <p>
-  <img src="https://img.shields.io/badge/-GIT-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=XAMPP&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Filezilla-BF0000?style=flat&logo=Filezilla&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cropie.js-FF69B4?style=flat&logo=JavaScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHPMailer-007ACC?style=flat&logo=PHP&logoColor=white" />
+  <img src="https://img.shields.io/badge/-XAMPP-FB7A24?style=for-the-badge&logo=XAMPP&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Filezilla-BF0000?style=for-the-badge&logo=Filezilla&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cropie.js-FF69B4?style=for-the-badge&logo=JavaScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHPMailer-007ACC?style=for-the-badge&logo=PHP&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/unreal%20engine-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Symfony-000000?style=flat&logo=Symfony&logoColor=white" />
-  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.NET&logoColor=white" />
-  <img src="https://img.shields.io/badge/-EDA-007ACC?style=flat&logo=Architecture&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ORM-007ACC?style=flat&logo=ORM&logoColor=white" />
-  <img src="https://img.shields.io/badge/-License%20Service-007ACC?style=flat&logo=License&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microsoft%20Server-007ACC?style=flat&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white" />
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white" />
+  <img src="https://img.shields.io/badge/-EDA-007ACC?style=for-the-badge&logo=Architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ORM-007ACC?style=for-the-badge&logo=ORM&logoColor=white" />
+  <img src="https://img.shields.io/badge/-License%20Service-007ACC?style=for-the-badge&logo=License&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Server-007ACC?style=for-the-badge&logo=Microsoft&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://img.shields.io/badge/-MariaDB-C0765A?style=flat&logo=MariaDB&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/-POSTGRESQL-336791?style=flat&logo=PostgreSQL&logoColor=white
+  <img src="https://img.shields.io/badge/-MariaDB-C0765A?style=for-the-badge&logo=MariaDB&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/-POSTGRESQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white
 " />
-<img src="https://img.shields.io/badge/-NoSQL-000000?style=flat&logo=NoSQL&logoColor=white" />
+<img src="https://img.shields.io/badge/-NoSQL-000000?style=for-the-badge&logo=NoSQL&logoColor=white" />
 
 </p>
 
 ### 📱 Mobile Development
 <p>
-  <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white" />
-  <img src="https://img.shields.io/badge/-IOS-000000?style=flat&logo=IOS&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IOS-000000?style=for-the-badge&logo=IOS&logoColor=white" />
 </p>
 
 ### 💻 Operating Systems
 <p>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux%20Mint-87CF3E?style=flat&logo=Linux-Mint&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=Kali-Linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux-Mint&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white" />
 </p>
 
 
