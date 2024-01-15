@@ -7,12 +7,11 @@ My technical groundwork was laid at "Curso Profissional de Gestão e Programaç�
 
 With over a decade in programming, my career has evolved, and I am currently working remotely where I continue to apply and expand my diverse set of skills in various languages and tools.
 
-
-## 🚀 Languages and Tools
-
 ## 💻 Developed Last Year
 - 👆 **Tap&Go**: A revolutionary tech platform that changes the way you interact. [Check it out!](https://tapgotech.com/)
 - ❄️ **Alaska Ice Bathtubs**: Experience the icy freshness with every bath. [Dive in!](https://alaskaicebath.com/)
+  
+## 🚀 Languages and Tools
 
 ### 🌐 Social
 <p>
