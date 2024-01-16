@@ -75,6 +75,7 @@ My decade-long journey in programming has led me to learn and use a variety of l
   <img src="https://img.shields.io/badge/-IOS-000000?style=for-the-badge&logo=IOS&logoColor=white" />
 </p>
 
+
 ### 💻 Operating Systems
 <p>
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
@@ -83,5 +84,20 @@ My decade-long journey in programming has led me to learn and use a variety of l
   <img src="https://img.shields.io/badge/-Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux-Mint&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white" />
 </p>
+
+## 📚 Older Projects and Tools
+- Top Monthly Musics (pre-Billboard era)
+- Chromium-based Web Browser
+- Cruise Ship Management System
+- Minecraft Server Plugins
+- CS:GO Casinos
+- CS:GO Cheats (Educational Purposes)
+- Singleplayer Game Cheats
+- Early work with GameMaker (2010) and Havij (2008)
+
+## 🌍 Languages and Other Skills
+- Languages: Fluent in Portuguese & English; Basics of French, Spanish, and Italian
+- Skills: Server Management, Wifi-Pentesting, Phishing Protection, App Bug Finding, SQL Injection, Ethical Pen-Testing
+- Creative: Video/Photo Editing (Capcut, Sony Vegas, Lightroom, Photoshop, Paint.net), SFM and Blender Animations, Fruity Loops, Piano, Chess
 
 
