@@ -90,9 +90,9 @@ My decade-long journey in programming has led me to learn and use a variety of l
 - Chromium-based Web Browser
 - Cruise Ship Management System
 - Minecraft Server Plugins
-- CS:GO Casinos
-- CS:GO Cheats (Educational Purposes)
-- Singleplayer Game Cheats
+- CS:GO Casinos Development
+- CS:GO Cheats Development (Educational Purposes)
+- Singleplayer Game Cheats Development
 - Early work with GameMaker (2010) and Havij (2008)
 
 ## 🌍 Languages and Other Skills
