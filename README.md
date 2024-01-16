@@ -57,6 +57,7 @@ My decade-long journey in programming has led me to learn and use a variety of l
   <img src="https://img.shields.io/badge/-License%20Service-007ACC?style=for-the-badge&logo=License&logoColor=white" />
   <img src="https://img.shields.io/badge/-Microsoft%20Server-007ACC?style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Stockfish-000000?style=for-the-badge&logo=Stockfish&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
