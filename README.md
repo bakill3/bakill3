@@ -86,7 +86,7 @@ My decade-long journey in programming has led me to learn and use a variety of l
 </p>
 
 ## 📚 Older Projects and Tools
-- Top Monthly Musics (pre-Billboard era)
+- Top Monthly Musics (Mainly Portugal)
 - Chromium-based Web Browser
 - Cruise Ship Management System
 - Minecraft Server Plugins
