@@ -113,6 +113,7 @@ During the initial months of the pandemic in 2019 and 2020, while continuing my 
 | Filtro da Padruga | 10.6k    | 591       | 141   | 173    | 9    | 54.2k       | 2 sec          |
 | Pickle Rick       | 6.1k     | 421       | 8     | -      | -    | 639         | -              |
 | Dancing Swat      | 16.8k    | 1.9k      | 103   | -      | -    | 12.4k       | -              |
+| **Total**         | **232.5k** | **43.9k** | **6.84k** | **24.2k** | **301** | **529.9k** | **N/A**      |
 
 Creating these effects was not only a way to engage with a broader audience but also a unique opportunity to blend my technical know-how with artistic expression, during a time of global crisis
 
