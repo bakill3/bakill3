@@ -100,6 +100,20 @@ My decade-long journey in programming has led me to learn and use a variety of l
 ## 🌍 Languages and Other Skills
 - Languages: Fluent in Portuguese & English; Basics of French, Spanish, and Italian
 - Skills: Server Management, Wifi-Pentesting, Phishing Protection, App Bug Finding, SQL Injection, Ethical Pen-Testing
-- Creative: Video/Photo Editing (Capcut, Sony Vegas, Lightroom, Photoshop, Paint.net), SFM and Blender Animations, Fruity Loops, Piano, Chess
+- Creative: Video/Photo Editing (Capcut, Sony Vegas, Lightroom, Photoshop, After Effects, Paint.net), SFM and Blender Animations, Fruity Loops, Piano, Chess
+
+## 📸 Instagram Effects Statistics (2019-2020)
+
+During the initial months of the pandemic in 2019 and 2020, while continuing my studies, I delved into creating Instagram effects. This was an exploration of new technical skills in a new domain. Here are some statistics showcasing the impact and reach of these effects:
+
+| Effect Name       | Accesses | Creations | Saves | Shares | Uses | Impressions | Avg. Open Time |
+|-------------------|----------|-----------|-------|--------|------|-------------|----------------|
+| Landscape         | 188.3k   | 37.5k     | 6.2k  | 21.4k  | 277  | 431.3k      | 8 sec          |
+| AroucaStyle       | 10.7k    | 3.5k      | 389   | 2.6k   | 15   | 31.4k       | 14 sec         |
+| Filtro da Padruga | 10.6k    | 591       | 141   | 173    | 9    | 54.2k       | 2 sec          |
+| Pickle Rick       | 6.1k     | 421       | 8     | -      | -    | 639         | -              |
+| Dancing Swat      | 16.8k    | 1.9k      | 103   | -      | -    | 12.4k       | -              |
+
+Creating these effects was not only a way to engage with a broader audience but also a unique opportunity to blend my technical know-how with artistic expression, during a time of global crisis
 
 
