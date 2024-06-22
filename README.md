@@ -3,9 +3,10 @@
 
 A passionate Full Stack Developer & Software Engineer from Portugal with a love for creating robust and scalable software solutions.
 
+## 📜 About Me
 My passion for coding ignited at the age of 13 when I developed my very first social network. This early endeavor taught me not only about building applications but also about security considerations like SQL injection. Over the years, my tinkering led me to a myriad of projects, from Raspberry Pi and Arduino integrations to complex web applications. My commitment to innovation and excellence is evident in notable projects like the app tool that garnered over 200K downloads, simulations related to COVID-19, and the creation of an AI voice assistant reminiscent of Jarvis.
 
-Fast forward to today, my foundational knowledge in Computer Science was laid during my secondary education at "Curso Profissional de Gestão e Programação de Sistemas Informáticos," where I honed skills like Python, C#, HTML, CSS, JavaScript, PHP, BASH, and delved deep into subjects like computer architecture, operating systems, and Linux. My academic voyage continued at ISEC (Instituto Superior de Engenharias de Coimbra), where I've been learning and mastering languages such as C and C++. I am currently working remotely.
+Fast forward to today, my foundational knowledge in Computer Science was laid during my secondary education at "Curso Profissional de Gestão e Programação de Sistemas Informáticos," where I honed skills like Python, C#, HTML, CSS, JavaScript, PHP, BASH, and delved deep into subjects like computer architecture, operating systems, and Linux. My academic voyage continued at ISEC (Instituto Superior de Engenharias de Coimbra), where I've been learning and mastering languages such as C and C++. I am currently no longer working remotely.
 
 My decade-long journey in programming has led me to learn and use a variety of languages and tools to build projects of all sizes and complexities.
 
@@ -16,9 +17,9 @@ My decade-long journey in programming has led me to learn and use a variety of l
 ## 🌐 Social
 <p>
   <a href="https://www.linkedin.com/in/gabriel-brandao-2000-pt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-  <a href="[https://www.linkedin.com/in/gabriel-brandao-2000-pt/](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=deostulti2@mail.com&subject=MISSED%20CALL%20EZTRADER&body=Hello%2C%0A%0AI%20tried%20contacting%20you%20today%20but%20you%20seem%20to%20have%20missed%20my%20call.%20%0A%0APlease%20return%20my%20call%20as%20soon%20as%20you%E2%80%99re%20available.%20%0A%0AIn%20any%20case%2C%20I%20will%20try%20ringing%20you%20at%20a%20later%20time.%0A%0A%0ATy%2C%0A%0A%0A%0A)" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <a href="mailto:deostulti2@mail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
-  
+
 ## 🚀 Languages and Tools
 
 ### 👨‍💻 Programming Languages
@@ -42,6 +43,8 @@ My decade-long journey in programming has led me to learn and use a variety of l
   <img src="https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Minikube-FF69B4?style=for-the-badge&logo=Kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/-XAMPP-FB7A24?style=for-the-badge&logo=XAMPP&logoColor=white" />
   <img src="https://img.shields.io/badge/-Filezilla-BF0000?style=for-the-badge&logo=Filezilla&logoColor=white" />
   <img src="https://img.shields.io/badge/-Cropie.js-FF69B4?style=for-the-badge&logo=JavaScript&logoColor=white" />
@@ -52,9 +55,9 @@ My decade-long journey in programming has led me to learn and use a variety of l
   <img src="https://img.shields.io/badge/unreal%20engine-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white" />
   <img src="https://img.shields.io/badge/-Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white" />
   <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white" />
-  <img src="https://img.shields.io/badge/-EDA-007ACC?style=for-the-badge&logo=Architecture&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ORM-007ACC?style=for-the-badge&logo=ORM&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microsoft%20Server-007ACC?style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ecotone-007ACC?style=for-the-badge&logo=Architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Event%20Store%20DB-336791?style=for-the-badge&logo=EventStore&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure-007ACC?style=for-the-badge&logo=MicrosoftAzure&logoColor=white" />
   <img src="https://img.shields.io/badge/-Stockfish-000000?style=for-the-badge&logo=Stockfish&logoColor=white" />
   <img src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
@@ -64,10 +67,8 @@ My decade-long journey in programming has led me to learn and use a variety of l
   <img src="https://img.shields.io/badge/-MariaDB-C0765A?style=for-the-badge&logo=MariaDB&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/-POSTGRESQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white
-" />
-<img src="https://img.shields.io/badge/-NoSQL-000000?style=for-the-badge&logo=NoSQL&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/-POSTGRESQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NoSQL-000000?style=for-the-badge&logo=NoSQL&logoColor=white" />
 </p>
 
 ### 📱 Mobile Development
@@ -75,7 +76,6 @@ My decade-long journey in programming has led me to learn and use a variety of l
   <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white" />
   <img src="https://img.shields.io/badge/-IOS-000000?style=for-the-badge&logo=IOS&logoColor=white" />
 </p>
-
 
 ### 💻 Operating Systems
 <p>
@@ -114,6 +114,4 @@ During the initial months of the pandemic in 2019 and 2020, while continuing my 
 | Dancing Swat      | 16.8k    | 1.9k      | 103   | -      | -    | 12.4k       | -              |
 | **Total**         | **232.5k** | **43.9k** | **6.84k** | **24.2k** | **301** | **529.9k** | **N/A**      |
 
-Creating these effects was not only a way to engage with a broader audience but also a unique opportunity to blend my technical know-how with artistic expression, during a time of global crisis
-
-
+Creating these effects was not only a way to engage with a broader audience but also a unique opportunity to blend my technical know-how with artistic expression, during a time of global crisis.
