@@ -107,11 +107,13 @@ During the initial months of the pandemic in 2019 and 2020, while continuing my 
 
 | Effect Name       | Accesses | Creations | Saves | Shares | Uses | Impressions | Avg. Open Time |
 |-------------------|----------|-----------|-------|--------|------|-------------|----------------|
-| Landscape         | 188.3k   | 37.5k     | 6.2k  | 21.4k  | 277  | 431.3k      | 8 sec          |
-| AroucaStyle       | 10.7k    | 3.5k      | 389   | 2.6k   | 15   | 31.4k       | 14 sec         |
+| Landscape         | 224.5k   | 42.2k     | 8.1k  | 22.5k  | 301  | 503.8k      | 7 sec          |
+| AroucaStyle       | 11.5k    | 4.1k      | 446   | 3.1k   | 15   | 32.8k       | 14 sec         |
 | Filtro da Padruga | 10.6k    | 591       | 141   | 173    | 9    | 54.2k       | 2 sec          |
+| Groot Dancing     | 11.7k    | 1.7k      | 88    | ---    | --   | 20.6k       | --             |
 | Pickle Rick       | 6.1k     | 421       | 8     | -      | -    | 639         | -              |
 | Dancing Swat      | 16.8k    | 1.9k      | 103   | -      | -    | 12.4k       | -              |
-| **Total**         | **232.5k** | **43.9k** | **6.84k** | **24.2k** | **301** | **529.9k** | **N/A**      |
+| **Total**         | **281.2k** | **50.9k** | **8.9k** | **25.8k** | **325** | **624.5k** | **N/A**|
+
 
 Creating these effects was not only a way to engage with a broader audience but also a unique opportunity to blend my technical know-how with artistic expression, during a time of global crisis.
