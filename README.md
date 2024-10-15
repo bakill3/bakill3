@@ -12,7 +12,7 @@ Currently, I’ve paused my university education to focus on remote work and bui
 
 ## 💻 Developed Last Year
 - 👆 **Tap&Go**: A revolutionary tech platform that changes the way you interact. [Check it out!](https://tapgotech.com/)
-- ❄️ **Alaska Ice Bathtubs**: Experience the icy freshness with every bath. [Dive in!](https://alaskaicebath.com/)
+- ❄️ **Alaska Ice Bathtubs**: Experience the icy freshness with every bath. [Dive in!](https://alaskarecover.com/)
 
 ## 🌐 Social
 <p>
