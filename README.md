@@ -12,8 +12,8 @@ I later pursued studies at the Coimbra Institute of Engineering (ISEC), focusing
 While actively working remotely and developing startups, I'm also continuing my degree in Computer Engineering at a flexible pace, applying my academic and professional experience to build innovative tech solutions.
 
 ## 💻 Recent Projects
-- 🧠 **Maze of Me**: A psychological CLI game that adapts to your real data, moods, music, and calendar, powered by local AI models. [GitHub](https://github.com/bakill3/maze-of-me)
-- ⚓ **Anchorly**: Chrome extension for saving and revisiting anchors on any webpage—no accounts, no tracking, just pure productivity. [Web Store](https://chromewebstore.google.com/detail/anchorly/gkidejbpflnmjbdkpmpfehchlamchhej)
+- 🧠 **Maze of Me**: A psychological CLI game that adapts to your real data, moods, music, and calendar, powered by local AI models [GitHub](https://github.com/bakill3/maze-of-me)
+- ⚓ **Anchorly**: Chrome extension for saving and revisiting anchors on any webpage, no accounts, no tracking, just pure productivity. [Web Store](https://chromewebstore.google.com/detail/anchorly/gkidejbpflnmjbdkpmpfehchlamchhej)
 - 👆 **Tap&Go**: A revolutionary tech platform that changes the way you interact. [Check it out!](https://tapgotech.com/)
 - ❄️ **Alaska Ice Bathtubs**: Experience the icy freshness with every bath. [Dive in!](https://alaskarecover.com/)
 
