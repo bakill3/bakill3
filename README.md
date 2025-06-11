@@ -4,13 +4,16 @@
 A passionate Full Stack Developer & Software Engineer from Portugal with a love for creating robust and scalable software solutions.
 
 ## 📜 About Me
-I’m Gabriel Brandão, a Full Stack Developer & Software Engineer from Portugal. My passion for coding started at 13 when I built my first social network. Since then, I’ve worked on various projects, from Raspberry Pi integrations to AI voice assistants, always aiming to create innovative and scalable solutions.
+My passion for coding started at 13 when I built my first social network. Since then, I’ve worked on various projects, from Raspberry Pi integrations to AI development, always aiming to create innovative solutions.
 
-I built a strong technical foundation during my high school education in a "Professional Course in Systems Management and Programming," where I learned languages like Python, C#, and JavaScript, and developed a deep understanding of computer systems. I later pursued studies at the Coimbra Institute of Engineering (ISEC), focusing on C and C++.
+I built a strong technical foundation during my high school education in a "Professional Course in Systems Management and Programming," where I learned languages like PHP, Python, C#, JavaScript, jQuery among others.. I also developed a deep understanding of computer systems. 
+I later pursued studies at the Coimbra Institute of Engineering (ISEC), focusing on C and C++.
 
-Currently, I’ve paused my university education to focus on remote work and building startups, where I’m leveraging my skills to drive technology innovation.
+While actively working remotely and developing startups, I'm also continuing my degree in Computer Engineering at a flexible pace, applying my academic and professional experience to build innovative tech solutions.
 
-## 💻 Developed Last Year
+## 💻 Recent Projects
+- 🧠 **Maze of Me**: A psychological CLI game that adapts to your real data, moods, music, and calendar, powered by local AI models. [GitHub](https://github.com/bakill3/maze-of-me)
+- ⚓ **Anchorly**: Chrome extension for saving and revisiting anchors on any webpage—no accounts, no tracking, just pure productivity. [Web Store](https://chromewebstore.google.com/detail/anchorly/gkidejbpflnmjbdkpmpfehchlamchhej)
 - 👆 **Tap&Go**: A revolutionary tech platform that changes the way you interact. [Check it out!](https://tapgotech.com/)
 - ❄️ **Alaska Ice Bathtubs**: Experience the icy freshness with every bath. [Dive in!](https://alaskarecover.com/)
 
@@ -28,6 +31,7 @@ Currently, I’ve paused my university education to focus on remote work and bui
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -68,12 +72,5 @@ Currently, I’ve paused my university education to focus on remote work and bui
   <img src="https://img.shields.io/badge/-NoSQL-000000?style=for-the-badge&logo=NoSQL&logoColor=white" />
 </p>
 
-## 📚 Notable Past Projects
-- **Top Monthly Musics**: Developed a music ranking platform, focusing on data aggregation and user experience.
-- **Chromium-based Web Browser**: Customized a browser for specific user needs, focusing on security and performance.
-- **Cruise Ship Management System**: Built a comprehensive management system for cruise operations.
-- **Minecraft Server Plugins**: Created custom plugins, enhancing server functionality and user engagement.
-- **Early work with GameMaker (2010) and Havij (2008)**
-
 ## 🤝 Let's Connect
-I'm always open to discussing new opportunities and collaborations. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/gabriel-brandao-2000-pt/) or [email](mailto:deostulti2@mail.com).
+I'm always open to discussing new opportunities and collaborations. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/gabriel-brandao-2000-pt/)
