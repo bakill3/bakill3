@@ -1,18 +1,17 @@
 # Hi there 👋, I'm Gabriel Brandão
 ![GitHub followers](https://img.shields.io/github/followers/bakill3?label=Follow&style=social)
 
-A passionate Full Stack Developer & Software Engineer from Portugal with a love for creating robust and scalable software solutions.
+A passionate **Full Stack Developer & Software Engineer** from Portugal, building innovative, privacy-first, and scalable software solutions.
 
 ## 📜 About Me
-My passion for coding started at 13 when I built my first social network. Since then, I’ve worked on various projects, from Raspberry Pi integrations to AI development, always aiming to create innovative solutions.
+My passion for coding started at 13 when I built my first social network. Since then, I’ve developed projects ranging from Raspberry Pi integrations to AI-powered applications, always with a focus on privacy, innovation, and scalability.  
 
-I built a strong technical foundation during my high school education in a "Professional Course in Systems Management and Programming," where I learned languages like PHP, Python, C#, JavaScript, jQuery among others.. I also developed a deep understanding of computer systems. 
-I later pursued studies at the Coimbra Institute of Engineering (ISEC), focusing on C and C++.
+I built a strong technical foundation through a **Professional Course in Systems Management and Programming**, where I learned languages like PHP, Python, C#, JavaScript, and more. I later studied **Computer Engineering at ISEC (Coimbra)** and continue to combine my academic and professional experience while building startups and working remotely.  
 
-While actively working remotely and developing startups, I'm also continuing my degree in Computer Engineering at a flexible pace, applying my academic and professional experience to build innovative tech solutions.
+⚡ My work has reached **200,000+ app downloads** and was **recognized by Meta for Developers**.  
 
 ## 💻 Recent Projects
-- 💬 **ChatMind**: A web-based AI conversation analysis and reply generator powered by local LLaMA models. Import chat logs, manage conversations, and generate AI-driven replies with adjustable creativity and tone, all running 100% locally. [GitHub](https://github.com/bakill3/chatmind)
+- 💬 **ChatMind**: A local-first AI dashboard that analyzes your chat history, detects your tone and phrasing, and generates replies in your personal style. Powered by LLaMA models, with full privacy and future integrations for Slack, Teams, and WhatsApp. [GitHub](https://github.com/bakill3/chatmind)
 - 🧠 **Maze of Me**: A psychological CLI game that adapts to your real data, moods, music, and calendar, powered by local AI models. Praised by Meta for Developers and viewed 50k+ times across Reddit communities like r/Python, r/MachineLearning, and r/gamedev. [GitHub](https://github.com/bakill3/maze-of-me)
 - ⚓ **Anchorly**: Chrome extension for saving and revisiting anchors on any webpage, no accounts, no tracking, just pure productivity. [GitHub](https://github.com/bakill3/anchorly) | [Web Store](https://chromewebstore.google.com/detail/anchorly/gkidejbpflnmjbdkpmpfehchlamchhej)
 - 👆 **Tap&Go**: A revolutionary NFC platform that enables instant reviews, analytics dashboards, and customer engagement features. [Check it out!](https://tapgotech.com/)
@@ -21,7 +20,7 @@ While actively working remotely and developing startups, I'm also continuing my 
 ## 🌐 Social
 <p>
   <a href="https://www.linkedin.com/in/gabriel-brandao-2000-pt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-  <a href="mailto:deostulti2@mail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <a href="mailto:deostulti2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 
 ## 🚀 Languages and Tools
@@ -74,4 +73,5 @@ While actively working remotely and developing startups, I'm also continuing my 
 </p>
 
 ## 🤝 Let's Connect
-I'm always open to discussing new opportunities and collaborations. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/gabriel-brandao-2000-pt/)
+I'm always open to discussing new opportunities and collaborations.  
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/gabriel-brandao-2000-pt/) or email at **deostulti2@gmail.com**.
