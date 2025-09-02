@@ -12,10 +12,11 @@ I later pursued studies at the Coimbra Institute of Engineering (ISEC), focusing
 While actively working remotely and developing startups, I'm also continuing my degree in Computer Engineering at a flexible pace, applying my academic and professional experience to build innovative tech solutions.
 
 ## 💻 Recent Projects
-- 🧠 **Maze of Me**: A psychological CLI game that adapts to your real data, moods, music, and calendar, powered by local AI models [GitHub](https://github.com/bakill3/maze-of-me)
+- 💬 **ChatMind**: A web-based AI conversation analysis and reply generator powered by local LLaMA models. Import chat logs, manage conversations, and generate AI-driven replies with adjustable creativity and tone — all running 100% locally. [GitHub](https://github.com/bakill3/chatmind)
+- 🧠 **Maze of Me**: A psychological CLI game that adapts to your real data, moods, music, and calendar, powered by local AI models. [GitHub](https://github.com/bakill3/maze-of-me)
 - ⚓ **Anchorly**: Chrome extension for saving and revisiting anchors on any webpage, no accounts, no tracking, just pure productivity. [GitHub](https://github.com/bakill3/anchorly) | [Web Store](https://chromewebstore.google.com/detail/anchorly/gkidejbpflnmjbdkpmpfehchlamchhej)
-- 👆 **Tap&Go**: A revolutionary tech platform that changes the way you interact. [Check it out!](https://tapgotech.com/)
-- ❄️ **Alaska Ice Bathtubs**: Experience the icy freshness with every bath. [Dive in!](https://alaskarecover.com/)
+- 👆 **Tap&Go**: A revolutionary NFC platform that enables instant reviews, analytics dashboards, and customer engagement features. [Check it out!](https://tapgotech.com/)
+- ❄️ **Alaska Ice Bathtubs**: Led technical development and online presence for Portugal’s top ice bath provider. [Dive in!](https://alaskarecover.com/)
 
 ## 🌐 Social
 <p>
