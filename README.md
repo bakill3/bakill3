@@ -9,8 +9,8 @@ Full-stack developer focused on privacy-first, scalable software. Built products
 **Infra/CI:** Docker, Kubernetes/Minikube, Linux, Azure, GitHub Actions (CI/CD)
 
 <details>
-  <summary>More tools (kept tidy)</summary>
-  XAMPP, .NET (basics), Android Studio, Unity, Unreal, Blender, Git, FileZilla, Ubuntu, Kali, Windows
+  <summary>More tools</summary>
+  XAMPP, .NET, Android Studio, Unity, Unreal, Blender, Git, FileZilla, Ubuntu, Kali, Windows
 </details>
 
 ## Recent Work
