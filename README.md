@@ -11,7 +11,7 @@ Full-stack developer focused on privacy-first, scalable software. Built products
 
 <details>
   <summary>More tools</summary>
-  XAMPP, .NET (basics), Unity, Unreal, Blender, Git, FileZilla, Ubuntu, Kali, Windows
+  XAMPP, .NET, Unity, Unreal, Blender, Git, FileZilla, Ubuntu, Kali, Windows
 </details>
 
 ## Selected projects
