@@ -7,14 +7,14 @@ Full-stack developer focused on privacy-first, scalable software. Built products
 **Web:** HTML/CSS, jQuery, React, Symfony  
 **Mobile:** Swift, Kotlin, Android Studio  
 **DB:** PostgreSQL, MySQL/MariaDB, MongoDB  
-**Infra/CI:** Docker, Kubernetes/Minikube, Linux, Azure, Git, GitHub Actions (CI/CD)
+**Infra/CI:** Docker, Kubernetes/Minikube, Linux, Azure, CI/CD with GitHub Actions
 
 <details>
   <summary>More tools</summary>
-  XAMPP, .NET, Android Studio, Unity, Unreal, Blender, Git, FileZilla, Ubuntu, Kali, Windows
+  XAMPP, .NET (basics), Unity, Unreal, Blender, Git, FileZilla, Ubuntu, Kali, Windows
 </details>
 
-## Recent Work
+## Selected projects
 - **ChatMind** – Local-first AI that mirrors your writing style from chat history. [Repo](https://github.com/bakill3/chatmind)
 - **Maze of Me** – Data-driven CLI game powered by local LLMs. [Repo](https://github.com/bakill3/maze-of-me)
 - **Anchorly** – Save anchors on any page; no accounts, no tracking. [Repo](https://github.com/bakill3/anchorly) · [Chrome Web Store](https://chromewebstore.google.com/detail/anchorly/gkidejbpflnmjbdkpmpfehchlamchhej)
