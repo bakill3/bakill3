@@ -4,9 +4,10 @@ Full-stack developer focused on privacy-first, scalable software. Built products
 
 **Core:** PHP, JavaScript  
 **Also:** Python, Node.js, Bash, C/C++, C#, Java  
-**Web:** HTML/CSS, jQuery, Symfony  
+**Web:** HTML/CSS, jQuery, React, Symfony  
+**Mobile:** Swift, Kotlin, Android Studio  
 **DB:** PostgreSQL, MySQL/MariaDB, MongoDB  
-**Infra/CI:** Docker, Kubernetes/Minikube, Linux, Azure, GitHub Actions (CI/CD)
+**Infra/CI:** Docker, Kubernetes/Minikube, Linux, Azure, Git, GitHub Actions (CI/CD)
 
 <details>
   <summary>More tools</summary>
