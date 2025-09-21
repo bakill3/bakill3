@@ -4,7 +4,7 @@ Full-stack developer focused on privacy-first, scalable software. Built products
 
 **Languages:** PHP, JavaScript, Python, Node.js, Bash, C, C++, C#, Java  
 **Web/Frameworks:** HTML, CSS, jQuery, React, Symfony, Mezzio (PHP), Express.js, Ecotone (CQRS)  
-**Datastores & Caches:** PostgreSQL, MySQL/MariaDB, MongoDB, Redis, EventStoreDB, SQL Server  
+**Datastores & Caches:** PostgreSQL, MySQL/MariaDB, MongoDB, Redis, EventStoreDB, Microsoft SQL Server  
 **Cloud & Infra:** Docker, Docker Compose, Kubernetes (AKS, Minikube), Helm, Azure, AWS (SNS/SQS, EventBridge), gRPC, Terraform  
 **CI/CD & Testing:** Git, GitHub Actions (CI/CD), PHPUnit, pytest, Karate  
 **AI/LLM (local):** llama.cpp, llama-cpp-python, Ollama, LM Studio  
@@ -13,7 +13,8 @@ Full-stack developer focused on privacy-first, scalable software. Built products
 
 <details>
   <summary>More tools</summary>
-  .NET (basics), XAMPP, phpMyAdmin, Blender, FileZilla, Windows, Ubuntu, Kali, Figma, Mermaid, Jira, Notion
+  Raspberry Pi, Arduino, .NET (basics), XAMPP, phpMyAdmin, Blender, FileZilla,
+  Windows, Ubuntu, Linux Mint, Kali, Figma, Mermaid, Jira, Notion
 </details>
 
 ## Selected projects
@@ -22,3 +23,5 @@ Full-stack developer focused on privacy-first, scalable software. Built products
 - **Anchorly** – Save anchors on any page; no accounts, no tracking. [Repo](https://github.com/bakill3/anchorly) · [Chrome Web Store](https://chromewebstore.google.com/detail/anchorly/gkidejbpflnmjbdkpmpfehchlamchhej)
 - **Tap&Go** – NFC reviews + analytics for local businesses. [Site](https://tapgotech.com/)
 - **Alaska Ice Bath** – Led tech + web presence for a top PT brand. [Site](https://alaskarecover.com/)
+
+📫 [LinkedIn](https://www.linkedin.com/in/gabriel-brandao-2000-pt/) • deostulti2@gmail.com
