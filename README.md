@@ -13,7 +13,7 @@ Full-stack developer focused on privacy-first, scalable software. Built products
 
 <details>
   <summary>More tools</summary>
-  Raspberry Pi, Arduino, .NET (basics), XAMPP, phpMyAdmin, Blender, FileZilla,
+  Raspberry Pi, Arduino, .NET, XAMPP, phpMyAdmin, Blender, FileZilla,
   Windows, Ubuntu, Linux Mint, Kali, Figma, Mermaid, Jira, Notion
 </details>
 
